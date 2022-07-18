@@ -1,0 +1,9 @@
+                Buddha Library  
+                Returned By: islin
+				   Date: 2021-09-10 				    Time:11:17:38.304412
+
+S.N.		Name of the book		Cost
+1		Harry Potter		$2
+2		Start With Why		$1.5
+					Fine: $6
+					Total Charge: $9.5
